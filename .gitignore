@@ -11,8 +11,9 @@ env/
 # Dataset
 data/
 
-# Trained models
-models/
+# Trained model files
+*.pth
+*.pt
 
 # Generated results
 results/
